@@ -1,0 +1,43 @@
+project_id = "etnciaojpjubdgkzpske"
+
+[functions.delete-user]
+verify_jwt = false
+
+[functions.admin-products]
+verify_jwt = false
+
+[functions.admin-users]
+verify_jwt = false
+
+[functions.verify-admin]
+verify_jwt = false
+
+[functions.admin-accounts]
+verify_jwt = false
+
+[functions.admin-orders]
+verify_jwt = false
+
+[functions.get-purchased-credentials]
+verify_jwt = false
+
+[functions.send-order-notification]
+verify_jwt = false
+
+[functions.rate-limiter]
+verify_jwt = false
+
+[functions.send-otp]
+verify_jwt = false
+
+[functions.reset-password]
+verify_jwt = false
+
+[functions.purchase-with-coins]
+verify_jwt = false
+
+[functions.send-purchase-notification]
+verify_jwt = false
+
+[functions.get-admin-bank-info]
+verify_jwt = false
